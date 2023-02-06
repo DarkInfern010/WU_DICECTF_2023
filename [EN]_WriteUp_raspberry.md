@@ -1,5 +1,5 @@
 
-# Comprehension et Run
+# Comprehension and Run
 
 The first thing I did was to read the files we were given :
 - `run.py` => Gives us an example of how to run the file `berry.rasp`
