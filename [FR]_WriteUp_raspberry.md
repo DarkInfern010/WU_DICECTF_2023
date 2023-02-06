@@ -31,7 +31,7 @@ On commence bien, on connaît la longueur du mot du passe et on valide la premi�
 
 Si on prend la vérification `z1`, et qu'on garde seulement la dernière utilisation :
 
-*Sur chaque ligne le code est répété plusieurs fois, donc je ne me soucie que d'une seule occurrence*
+*Sur chaque ligne le code est répété plusieurs fois, donc je ne me soucie que d'une seule occurrence, en l'occurence le dernier aggregate*
 
     aggregate(
 		select((selector_width((((((
